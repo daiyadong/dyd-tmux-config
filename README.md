@@ -1,2 +1,3 @@
-# dyd-tmux-config
-初始化 tmux 配置。
+### dyd-tmux-config
+自己配的 tmux.conf
+
